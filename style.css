@@ -181,6 +181,9 @@ cursor: pointer;
         display: flex;
         flex-wrap: wrap;
     }
+    .web-text{
+        width: 200px;
+    }
     .device-sect{
         flex-wrap: wrap;
         gap: 20px;
